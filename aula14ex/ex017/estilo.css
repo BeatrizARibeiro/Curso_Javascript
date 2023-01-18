@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(202, 50, 101);
+    background: url(rosa.jpg) no-repeat;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: rgba(107, 5, 39, 0.884);
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.226);
+}
+
+#ebtn{
+    padding: 5px;
+    margin: 15px;
+}
+
+#btn{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    background-color:rgb(250, 18, 96);
+    border-radius: 3px;
+    border: 1px solid rgba(37, 1, 19, 0.616);
+}
+
+#btn:hover{
+    cursor: pointer;
+}
+
+#txtres{
+    font: normal 12pt Arial;
+    padding: 10px;
+}
+
+footer{
+    color: rgb(107, 5, 39);
+    text-align: center;
+    font-weight: 500;
+}

@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(172, 50, 202);
+    background: url(roxo.jpg);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#txtn{
+    background-color: rgb(253, 234, 255);
+    border: 1px solid rgba(2, 2, 2, 0.514);
+    border-radius: 2px;
+    font: normal 13pt Arial;
+    width: 150px;
+}
+
+section{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 550px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.226);
+}
+
+select{
+    padding: 5px;
+    width: 170px;
+    background-color: rgb(253, 234, 255);
+    font: normal 12pt Arial;
+}
+
+#ebtn{
+    padding: 5px;
+    margin: 15px;
+}
+
+#btn, #add{
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+    background-color:rgb(158, 18, 214);
+    border-radius: 3px;
+    border: 1px solid rgba(104, 21, 112, 0.616);
+}
+
+#btn:hover, #add:hover{
+    cursor: pointer;
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 500;
+}
