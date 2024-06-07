@@ -2,9 +2,9 @@
 
 Repositório de projetos feitos em Javascript durante meu aprendizado nas aulas do Curso em Vídeo ministradas pelo professor Gustavo Guanabara.
 
-#### Tecnologias utilizadas:
+### Tecnologias utilizadas:
 <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-#### Playlist do curso: 
+### Playlist do curso: 
 [Curso de Javascript](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&ab_channel=CursoemV%C3%ADdeo)
  
